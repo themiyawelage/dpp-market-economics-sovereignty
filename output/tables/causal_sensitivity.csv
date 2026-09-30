@@ -1,0 +1,2 @@
+relationship,n,ols_beta,classical_t,df_resid,partial_r2_exposure_outcome,equal_strength_robustness_value_to_zero,interpretation
+small_basic_dii_2024_to_circularity_2024,27,0.18062813735476166,1.3497194250933977,25.0,0.06792036440869931,0.2359567781819754,Sensitivity diagnostic only; causal identification is not established because key confounders and DPP adoption are unobserved.

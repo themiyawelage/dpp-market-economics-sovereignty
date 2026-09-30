@@ -1,0 +1,108 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.068
+Model:                            OLS   Adj. R-squared:                  0.031
+Method:                 Least Squares   F-statistic:                     1.391
+Date:                Wed, 30 Sep 2026   Prob (F-statistic):              0.249
+Time:                        17:09:28   Log-Likelihood:                -91.717
+No. Observations:                  27   AIC:                             187.4
+Df Residuals:                      25   BIC:                             190.0
+Df Model:                           1                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -1.4759      9.623     -0.153      0.878     -20.336      17.384
+x1             0.1806      0.153      1.180      0.238      -0.120       0.481
+==============================================================================
+Omnibus:                        3.559   Durbin-Watson:                   2.270
+Prob(Omnibus):                  0.169   Jarque-Bera (JB):                2.186
+Skew:                           0.668   Prob(JB):                        0.335
+Kurtosis:                       3.401   Cond. No.                         447.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.055
+Model:                            OLS   Adj. R-squared:                  0.017
+Method:                 Least Squares   F-statistic:                     3.668
+Date:                Wed, 30 Sep 2026   Prob (F-statistic):             0.0670
+Time:                        17:09:28   Log-Likelihood:                -91.905
+No. Observations:                  27   AIC:                             187.8
+Df Residuals:                      25   BIC:                             190.4
+Df Model:                           1                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        -42.8492     27.635     -1.551      0.121     -97.013      11.315
+x1             0.5518      0.288      1.915      0.055      -0.013       1.117
+==============================================================================
+Omnibus:                        6.483   Durbin-Watson:                   2.056
+Prob(Omnibus):                  0.039   Jarque-Bera (JB):                4.668
+Skew:                           0.955   Prob(JB):                       0.0969
+Kurtosis:                       3.708   Cond. No.                     2.99e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+[2] The condition number is large, 2.99e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.052
+Model:                            OLS   Adj. R-squared:                 -0.027
+Method:                 Least Squares   F-statistic:                    0.4679
+Date:                Wed, 30 Sep 2026   Prob (F-statistic):              0.632
+Time:                        17:09:28   Log-Likelihood:                -91.940
+No. Observations:                  27   AIC:                             189.9
+Df Residuals:                      24   BIC:                             193.8
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         13.0346     16.565      0.787      0.431     -19.431      45.501
+x1            -0.1788      0.194     -0.922      0.356      -0.559       0.201
+x2             0.2284      1.110      0.206      0.837      -1.947       2.404
+==============================================================================
+Omnibus:                        2.866   Durbin-Watson:                   2.225
+Prob(Omnibus):                  0.239   Jarque-Bera (JB):                1.893
+Skew:                           0.646   Prob(JB):                        0.388
+Kurtosis:                       3.115   Cond. No.                         253.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                 -0.079
+Method:                 Least Squares   F-statistic:                   0.02652
+Date:                Wed, 30 Sep 2026   Prob (F-statistic):              0.974
+Time:                        17:09:28   Log-Likelihood:                -55.324
+No. Observations:                  27   AIC:                             116.6
+Df Residuals:                      24   BIC:                             120.5
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         13.6081      2.422      5.618      0.000       8.861      18.355
+x1            -0.0070      0.041     -0.172      0.864      -0.087       0.073
+x2             0.0151      0.074      0.203      0.839      -0.131       0.161
+==============================================================================
+Omnibus:                        4.798   Durbin-Watson:                   1.630
+Prob(Omnibus):                  0.091   Jarque-Bera (JB):                3.545
+Skew:                          -0.882   Prob(JB):                        0.170
+Kurtosis:                       3.204   Cond. No.                         453.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+

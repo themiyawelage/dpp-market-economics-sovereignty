@@ -1,0 +1,2 @@
+relationship,pearson_r,pearson_p,spearman_rho,spearman_p,bootstrap_ci_low,bootstrap_median,bootstrap_ci_high,n
+small_basic_dii_2024_vs_circularity_2024,0.26061535720041396,0.18920187476139955,0.2519084086898626,0.20494905817761636,-0.08475033001945478,0.2675550772166324,0.5778992764546909,27

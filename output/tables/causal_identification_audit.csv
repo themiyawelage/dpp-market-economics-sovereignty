@@ -1,0 +1,8 @@
+construct,role,observed_in_repository,measure
+Digital capability,Observed exposure/proxy,yes,DII Version 4
+DPP implementation capacity,Mediator,no,conceptual
+Circular material use,Observed outcome/context,yes,Eurostat circular material use rate
+Economic development,Potential confounder,no,not included
+Industrial structure,Potential confounder,no,not included
+Environmental policy,Potential confounder,no,not included
+Provider dependence,Sovereignty mechanism,no,theoretical mechanism
